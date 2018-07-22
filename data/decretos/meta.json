@@ -1,0 +1,67 @@
+[
+
+{
+    "docid": "d45391",
+    "type": "decreto",
+    "date_published": "2010-06-08",
+    "state": "MG",
+    "polygon": {
+        "descr": "Monumento Natural Estadual Experiência da Jaguara tem os seguintes limites, medidas e confrontações: inicia-se a descrição deste perímetro no vértice DVH-M1868, de coordenadas N=7.844.230,628m e E=604.112,014m; deste segue confrontando com a propriedade de Djalma Vilela, com azimute 131º 58'44\" e distância de 247,86m até o vértice DVHM1867, de coordenadas N=7.844.064,847m e E=604.296,269m, com azimute 103º 26'12\" e distância de 124,34m até o vértice DVH-M1866, de coordenadas N=7.844.035,954m e E=604.417,208m, com azimute 166º 19'47\" e distância de 242,83m até o vértice DVH-M1865, de coordenadas N=7.843.800,007m e E=604.474,596m; deste segue confrontando a Estrada Municipal que liga o Município de Matozinhos a Jaguara, com azimute 235º 48'12\" e distância de 337,79m até o vértice DVH-M1877, de coordenadas N=7.843.610,155m e E=604.195,204m, com azimute 228º 44'32\" e distância de 145,42m até o vértice DVHM1876, de coordenadas N=7.843.514,257m e E=604.085,883m, com azimute de 221º 26'17\" e distância de 155,53m até o vértice DVH-M1875, de coordenadas N=7.843.397,664m e E=603.982,954m, com azimute 270º 59'23\" e distância de 14,70m até o vértice DVH-M1874, de coordenadas N=7.843.397,918m e E=603.968,260m, com azimute 333º 58'43\" e distância de 67,92m até o vértice DVH-M1873, de coordenadas N=7.843.458,948m e E=603.938,465m, com azimute 329º 35'07\" e distância de 205,34m até o vértice DVH-M1872, de coordenadas N=7.843.636,028m e E=603.834,512m, com azimute 327º 14'20\" e distância de 207,16m até o vértice DVH-M1871, de coordenadas N=7.843.810,231m e E=603.722,413m; com azimute 329º 39'54\" e distância de 197,79m até o vértice DVH-M1870, de coordenadas N=7.843.980,941m e E=603.622,518m; deste segue confrontando com a propriedade de Djalma Vilela, com azimute 60º 35'06\" e distância de 330,21m até o vértice DVHM1869, de coordenadas N=7.844.143,116m e E=603.910,155m; deste segue com azimute 66º 33'42\" e distância de 220,01m até o vértice DVH-M1868, ponto inicial da descrição deste perímetro.",
+        "datum": "SIRGAS2000",
+        "proj": "UTM"
+    }
+
+},
+
+{
+    "docid": "d37826",
+    "type": "decreto",
+    "date_published": "1996-03-14",
+    "state": "MG",
+    "polygon": {
+        "descr": "",
+        "datum": "",
+        "proj": ""
+    }
+
+},
+
+{
+    "docid": "d46322",
+    "type": "decreto",
+    "date_published": "2013-09-30",
+    "state": "MG",
+    "polygon": {
+        "descr": "",
+        "datum": "",
+        "proj": ""
+    }
+
+},
+
+{
+    "docid": "l18348",
+    "type": "lei",
+    "date_published": "2009-08-25",
+    "state": "MG",
+    "polygon": {
+        "descr": "",
+        "datum": "",
+        "proj": ""
+    }
+
+},
+
+{
+    "docid": "l18042",
+    "type": "lei",
+    "date_published": "2009-01-13",
+    "state": "MG",
+    "polygon": {
+        "descr": "",
+        "datum": "",
+        "proj": ""
+    }
+
+}
+]
