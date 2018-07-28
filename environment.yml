@@ -1,0 +1,6 @@
+name: ucs-db
+
+dependencies:
+  - numpy
+  - pandas
+  - jupyter
